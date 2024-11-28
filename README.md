@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning: JavaScript
-- 👯 I'm looking for my first opportunity in Quality Assurance.
+- 👯 I'm a QA Engineer
 - 📫 How to reach me: juliana.cmizael@gmail.com
 - 😄 Pronouns: She/Her
 
